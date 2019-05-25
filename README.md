@@ -34,6 +34,9 @@ python3 chinese_rec.py --mode=inference
 tensorboard --logdir="log/"
 ```
 
+## 已经解析好的数据和训练好的模型下载链接
+链接: https://pan.baidu.com/s/1hcp947GHYJAXYqD7mzz8ew 提取码: 644s 
+
 #目录结构
 |————bin  --------------------- 可执行脚本目录
 | |————build.sh --------------- 构建脚本
