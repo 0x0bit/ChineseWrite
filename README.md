@@ -42,3 +42,30 @@ tensorboard --logdir="log/"
 #目录结构
 ![屏幕快照 2019-05-23 19.16.11](http://ww1.sinaimg.cn/large/006tNc79ly1g3dd6clwilj30u0136ti0.jpg)
 
+
+
+# 训练结果：
+
+![](./img/png.png)
+
+![](./img/accuracy.png)
+
+![](./img/loss_rate.png)
+
+
+
+# 整体架构
+
+### CNN 架构
+
+![](./img/CNN架构图.png)
+
+
+
+### 系统架构
+
+![](./img/系统架构.png)
+
+### 调用流程
+
+![](./img/)

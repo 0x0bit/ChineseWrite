@@ -9,3 +9,8 @@ Untitled
 coverage
 .nyc_output
 /out
+.eslintignore
+.gitignore
+.huskyrc
+Makefile
+pm2.json
